@@ -1,3 +1,4 @@
+export default `
 Nama: Ini placeholder, nanti ganti sendiri
 Description: Ini placeholder, nanti ganti sendiri
 
@@ -16,3 +17,4 @@ Hal yang Disukai:
 
 Hal yang Tidak Disukai:
 * Ini placeholder, nanti ganti sendiri
+`;

@@ -1,7 +1,7 @@
 // A helper to parse the new character format
 function parseCharacter(rawContent, filePath) {
   const lines = rawContent.split('\n').map(l => l.trim());
-  
+
   const id = filePath.split('/').pop().replace('.md', '');
   
   const character = {
@@ -56,7 +56,7 @@ const metaModules = import.meta.glob('./*/meta.js', { eager: true });
 const chapterModules = import.meta.glob('./*/chapters/*.js', { eager: true });
 
 // Get all character files as raw text
-const characterModules = import.meta.glob('./*/characters/*.md', { as: 'raw', eager: true });
+const characterModules = import.meta.glob('./*/characters/*.md', { import: 'raw', eager: true });
 
 // A helper to extract the novel's folder name from a path (e.g., './novel1/meta.js' -> 'novel1')
 const getNovelFolder = (path) => {

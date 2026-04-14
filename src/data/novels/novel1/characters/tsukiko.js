@@ -1,3 +1,4 @@
+export default `
 Nama: Tsukiko
 Description: Tsukiko adalah pemburu iblis tingkat 2 yang ceria, usil, dan penuh rasa ingin tahu. Ia mudah bergaul, setia pada rekan, dan selalu membawa suasana hidup di tengah ketegangan.
 
@@ -22,3 +23,4 @@ Hal yang Tidak Disukai:
 * Pembohong
 * Terong
 * Anjing
+`;

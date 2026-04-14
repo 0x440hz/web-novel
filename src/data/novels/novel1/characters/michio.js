@@ -1,3 +1,4 @@
+export default `
 Nama: Michio
 Description: Michio adalah sosok yang lembut dan penuh empati, berperan sebagai penyembuh di antara para pemburu iblis. Meski terlihat tenang dan sederhana, tekadnya kuat — ia akan tetap berdiri di garis belakang.
 
@@ -22,3 +23,4 @@ Hal yang Tidak Disukai:
 * Orang yang akrab dengan Rathail
 * Kopi
 * Laba-laba
+`;

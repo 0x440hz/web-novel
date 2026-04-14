@@ -1,3 +1,4 @@
+export default `
 Nama: Reiki
 Description: Seorang perempuan pengguna Katana dengan kemampuan misterius bernama Cahaya Bintang Harapan. Meskipun terlihat santai dan suka tidur siang, jangan pernah meremehkan tebasannya di medan pertempuran.
 
@@ -24,3 +25,4 @@ Hal yang Tidak Disukai:
 * Rasa sakit
 * Rathail (Untuk saat ini)
 * Bau Iblis
+`;

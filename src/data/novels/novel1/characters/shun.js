@@ -1,3 +1,4 @@
+export default `
 Nama: Shun
 Description: Shun adalah pemburu iblis muda yang enerjik dan ceria, sering membawa suasana ringan di tengah ketegangan. Di balik sikapnya yang mudah bergaul, Shun menyimpan rasa hormat yang dalam terhadap Rathail.
 
@@ -22,3 +23,4 @@ Hal yang Tidak Disukai:
 * Sesuatu yang tidak sesuai dengan idealisme nya
 * Darah
 * Hewan melata
+`;

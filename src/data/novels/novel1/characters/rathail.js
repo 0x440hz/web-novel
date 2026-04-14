@@ -1,3 +1,4 @@
+export default `
 Nama: Rathail
 Description: Rathail adalah sosok pemburu iblis yang tenang, dingin, dan penuh kendali. Ia jarang menunjukkan emosi, namun di balik tatapannya yang tajam tersimpan beban tanggung jawab besar sebagai seorang pemimpin.
 
@@ -24,3 +25,4 @@ Hal yang Tidak Disukai:
 * pertarungan singkat
 * lawan lemah
 * laba-laba
+`;
