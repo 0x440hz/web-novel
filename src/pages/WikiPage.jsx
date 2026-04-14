@@ -136,11 +136,11 @@ export function WikiDetailPage({ novel }) {
                     Informasi Dasar
                   </h2>
                 </div>
-                <div className="grid sm:grid-cols-2 gap-x-8 gap-y-0">
+                <div className="space-y-3">
                   {Object.entries(char.details).map(([key, value]) => (
-                    <div key={key} className="flex items-center justify-between gap-4 border-b border-slate-100 dark:border-slate-800 py-3">
-                      <span className="text-sm font-medium text-slate-500 dark:text-slate-400">{key}</span>
-                      <span className="text-sm font-semibold text-slate-900 dark:text-white tracking-tight text-right">{value}</span>
+                    <div key={key} className="text-sm">
+                      <span className="font-semibold text-slate-500 dark:text-slate-400">{key}: </span>
+                      <span className="text-slate-800 dark:text-slate-200">{value}</span>
                     </div>
                   ))}
                 </div>
@@ -180,13 +180,15 @@ export function WikiDetailPage({ novel }) {
                 <StarIcon className="w-6 h-6 text-emerald-500" />
                 <h2 className="text-xl font-bold text-slate-900 dark:text-white tracking-tight">Informasi Dasar</h2>
               </div>
-              <div className="grid sm:grid-cols-2 gap-x-8 gap-y-1 bg-white dark:bg-slate-950 p-6 sm:p-8 rounded-2xl border border-slate-100 dark:border-slate-800 shadow-sm">
-                {Object.entries(char.details).map(([key, value]) => (
-                  <div key={key} className="flex items-center justify-between gap-4 border-b border-slate-100 dark:border-slate-800 py-3">
-                    <span className="text-sm font-medium text-slate-500 dark:text-slate-400">{key}</span>
-                    <span className="text-base font-semibold text-slate-900 dark:text-white tracking-tight text-right">{value}</span>
+              <div className="bg-white dark:bg-slate-950 p-6 sm:p-8 rounded-2xl border border-slate-100 dark:border-slate-800 shadow-sm">
+                  <div className="space-y-4">
+                    {Object.entries(char.details).map(([key, value]) => (
+                      <div key={key} className="text-base">
+                        <span className="font-semibold text-slate-500 dark:text-slate-400">{key}: </span>
+                        <span className="text-slate-800 dark:text-slate-200">{value}</span>
+                      </div>
+                    ))}
                   </div>
-                ))}
               </div>
             </section>
           </div>
