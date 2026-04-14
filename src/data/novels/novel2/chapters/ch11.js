@@ -1,218 +1,80 @@
 const chapter = {
   id: 11,
   arc: "Arc 2: Flame Arc",
-  title: "#11 Benang Takdir di Balik Cahaya yang Retak",
+  title: "#11 Antara Kepercayaan dan Perasaan yang Tak Terucap",
   content: `
 ---------------------------------
-*Pada malam hari Reina sedang berdiri di balkon kamarnya seperti biasa, sambil menempatkan tangannya di dada sebelah kiri-nya sambil melihat ke langit gelap yang ber-bintang*
+*Beberapa hari kemudian, Reina sedang disibukkan dengan urusan kerajaan.*
 
-*dari tangannya muncul benang-benang cahaya yang tipis seakan menjadi penghubung antara dirinya dan para bintang*
+Reina:".... Kerajaan Solaris, binore, clyment... Hah.. Banyak sekali permintaan mereka... Kincir angin tambahan, jembatan...... Hah?!! Perkebunan Sawit?!?! YANG BENAR SAJA!!"
+Kyler:"Reina aku membawakanmu-! "
 
-Reina:"Bintang-bintang yang terjaga di langit kelam,
-penjaga rahasia malam yang tak pernah padam.
-Dari ketinggian sunyi kalian bersinar,
-apakah takdirku juga kau lihat bergetar?”
-Reina:"Jika esok membawa luka dan perpisahan,
-bisikkan padaku lewat cahaya perlahan.
-Agar hatiku kuat melangkah sendiri,
-meski jalan gelap menanti di depan nanti."
+tiba-tiba salah satu tumpukan kertas melayang ke arah wajah kryle, namun untungnya dia sempat menghindar
 
-*Ia terdiam,Dan bintang-bintang berkelip pelan seolah menjawab tanpa suara*
+Kryle:"kopi...ada apa Reina? "
+Reina:"yang benar saja Kerajaan clayment meminta lahan untuk perkebunan.. -..... Terimakasih kopinya.. "
+Kryle:"hehe.. Sama-sama..tenang saja reina apa kau melihat tanda di ujung surat pengajuan ini? 
 
-*Reina menurunkan tangannya, dan benang-benang tipis tadi pun ikut menghilang seiring dia menurunkan tangannya dan dia pun teringat dengan tanda yang diberikan Zavyre pada telapak tangannya yang bisa digunakan untuk mengembalikan Zavyre*
+Reina memeriksa surat itu dengan seksama. 
 
-Reina:".. Apa yang terjadi jika tanda ini akhirnya mengenai dirimu Zavyre...apa kau akan benar-benar pergi untuk selamanya?"
-
-*tiba-tiba dari arah pintu kamarnya, terdengar suara ketukan pintu*
-
-Vyerna:"Reina... Ini aku"
-
-*Reina berbalik dan menghampiri pintu*
-
-Reina:"masuklah pintunya tidak dikunci"
-
-*Vyerna masuk dan langsung menghampiri Reina*
-
-Vyerna:"Reina.. Beberapa hari yang lalu aku merasakan kehadiran Zavyre di sekitar istana..."
-Reina:".. Ya.. Dia memang datang kesini saat itu"
-Vyerna:"... Begitu, apa dia melakukan atau mengatakan sesuatu?"
-Reina:"ya.. Dia memperingati-ku tentang kebangkitan kembali dirinya, dan dia memberikan tanda ini untuk mengatasinya suatu saat nanti"
-*Reina memperlihatkan Tanda yang ada ditangannya pada Vyerna, dan dia langsung melihatnya dengan seksama*
-
-Vyerna:"hm.. Tanda kehidupan, dan pengulangan"
-Reina:"Pengulangan?..."
-Vyerna:"benar.. Ini bukan 1 tanda yang sama.. Tetapi 2 tanda yang di satukan"
-Reina:"Mengapa pengulangan?"
-Vyerna:"hm.. Aku kurang yakin apa tujuan Zavyre menaruh tanda ini pada dirimu, mungkin dia punya alasannya sendiri"
-
-*Disaat mereka sedang berbincang di dalam kamar Reina, Secara tidak sengaja Lioren mendengarkan semua pembicaraan mereka dan memutuskan untuk masuk*
-
-Lioren:"Per fidem et gloriam, Putri Reina"
-
-*Reina dan Vyerna langsung Terkejut dengan kedatangan Lioren*
-
-Reina:"S-Solan Lioren"
-Vyerna:"Ahh-.. Kau mengejutkan kami Berdua sayang"
-
-*Lioren tiba-tiba membeku sesaat dan wajahnya memerah saat Vyerna memanggilnya seperti itu*
-
-Lioren:"ahh.. A-aku minta maaf... S-saya-"
-Vyerna:"Menjijikkan"
-
-*Lioren terdiam dan langsung terkejut seakan Arwahnya keluar dari mulut nya*
-
-Vyerna:"hehe,sudahlah-..aku hanya bercanda"
-Lioren:"Humph"
-
-_(Reina:"Wahai Dewa Cahaya mengapa kau menempatkan ku di situasi seperti ini")_
+Reina:"... Benar juga.. Tidak ada tanda kerajaan, artinya tidak penting... _"Burns "_
+Surat yang dipegang Reina itu langsung hangus terbakar. 
 ---------------------------------
-*Lioren menarik napas dalam, lalu menegakkan sikapnya. Wajahnya kembali dingin dan tegas seperti biasanya.*
+Kryle:"hehehe.. Omong-omong .. Reina, aku ingin menanyakan sesuatu dan aku harap kau bisa jujur dalam menjawab pertanyaanku ini
+Reina:".. Hm? Ada apa kryle? 
+Kryle:"katakan padaku yang sebenarnya.. Apa kau diam-diam mencari informasi tentang pria bernama Zavyre itu? 
+Reina:"..."
 
-Lioren:"Baiklah..Cukup bercandanya."
+Reina terdiam cukup lama. Jemarinya mencengkeram cangkir kopi yang masih mengepul, seolah panasnya bisa menenangkan pikirannya yang kacau. Tatapannya tak lagi tertuju pada tumpukan dokumen, melainkan pada jendela besar yang menghadap ke halaman istana.
 
-*Ia melangkah satu langkah mendekat, pandangannya tajam namun penuh kekhawatiran.*
+Kryle:"Reina?... "
+Reina:"Jadi kau sudah tahu jawabannya."
 
-Lioren:"Aku mendengar nama Zavyre disebut. Dan tanda itu"
-*matanya tertuju pada telapak tangan Reina*
-Lioren:"dan itu bukan sesuatu yang bisa dianggap sepele.”
+Kryle tidak langsung menjawab. Ia melangkah mendekat, duduk di sebrang meja kerja Reina, ekspresinya berubah lebih serius dari biasanya.
 
-*Reina terdiam sejenak. Tangannya mengepal perlahan, lalu ia mengangguk kecil, dan akhirnya dia menceritakan situasi yang sedang terjadi pada Lioren*
+Kryle:"Aku hanya ingin mendengarnya langsung darimu. Dari mulutmu sendiri."
+Reina:"itu benar, aku mencari latar belakang kehidupannya.. Dan saat aku berjalan-jalan ke desa sendirian pada saat itu aku bertemu dengannya "
+Kryle:"sudah kuduga kau berbohong padaku tentang latihan sihir itu... "
+Reina:"aku hanya tidak ingin membuatmu selalu khawatir kepada ku kryle"
+Kryle:"dengan berbohong padaku?!... "
+Reina:"tapi kryle-"
+Kryle:"REINA!!!"
 
-*Vyerna pun ikut menjelaskan Awal mula dari Situasi itu*
+Untuk pertama kalinya Kryle memotong perkataan Reina. 
 
-Lioren:"Hm.. Itu berarti, Kita para Prajurit harus menambah keamanan lagi lebih ketat"
-Lioren:"hm.. Aku harus memberi tahu Maeryn tentang hal ini, agar dia bisa menjaga bagian dalam istana termasuk kalian berdua"
-Reina:"Terimakasih Lioren"
-Vyerna:"hehe.. Ini baru calon Suamiku yang sangat pintar dan cerdas"
+Kryle:"Aku selalu berjuang melindungimu,melindungi kerajaan ini, bahkan melindungi dirimu dari bayangan masa lalu, Apa perjuangan ku itu tidak cukup untuk mendapatkan kepercayaan mu walaupun hanya sedikit?!?! "
+Reina:"..Kryle.."
+Kryle:"aku mohon Reina.. Jangan mengabaikanku, jangan memandang ku sebagai seorang pemimpin prajurit, aku mohon pandang aku sebagai "pendamping" mu.. "
+Reina:"..... "
+Kryle:"... A-aku minta maaf Reina.. Hanya saja dengan dirimu berbohong seperti itu, akan semakin membuatku khawatir dengan keselamatan-mu, aku berjanji pada ayahmu untuk terus menjagamu apapun keadaan nya."
 
-*Vyerna meraih kedua Pipi Lioren dan mencubit nya beberapa kali*
+Reina akhirnya berdiri dari kursinya begitu juga kryle yang berdiri dan mendekati Kryle, lalu memeluknya dengan erat. 
 
-Lioren:"ahhh.. Itu kan memang tugasku~~~~"
-
-_(Reina:"Kaelous dimana dirimu disaat seperti ini-")_
-
-*Di kamar Kaelous, dia Sudah tertidur Lelap sambil memeluk boneka yang mirip Reina*
+Kryle:".... R-reina?"
+Reina:"shh.. Biarkan seperti ini Untuk beberapa saat saja"
 ---------------------------------
-*Lioren kembali melihat ke Reina dengan wajah bingung*
+Kryle terdiam. Tangannya yang semula kaku perlahan terangkat, ragu namun akhirnya membalas pelukan Reina. Ia menarik napas panjang, seolah menahan segala emosi yang sejak tadi menekan dadanya.
 
-Lioren:"Omong-omong, Apakah ada diantara kalian melihat Maeryn, Prajurit yang lain bilang terakhir mereka melihatnya saat siang hari, dan belum kembali sampai sekarang"
+Kryle:“…Kau tahu, Reina…”
+suaranya merendah, nyaris bergetar.
+Kryle:"Aku lebih takut kehilanganmu daripada menghadapi ribuan musuh di medan perang."
 
-Reina:"um... Maeryn?"
-Vyerna:"Ah.. Prajurit Wanita yang manis itu.. Tidak kami belum melihatnya lagi"
+Pelukan itu mengendur. Reina perlahan melepaskan diri, namun tangannya masih tertahan di lengan Kryle. Tatapan mereka bertemu dekat, jujur, dan rapuh.
 
-*Lagi-lagi Reina terdiam dengan wajah bingungnya*
-_(Reina:"Kami?.... Siapa Maeryn)"_
+Kryle menatap Reina dengan tatapan tegas. 
 
-Lioren:"ah begitu, hm.. Dia harus kuberi tahu untuk bersiap menambah keamanan"
+Kryle:"aku akan berdiri di garis terdepan. Bukan hanya sebagai prajurit… tapi sebagai pria yang mencintaimu."
 
-_(Reina:"Hoy.. Siapa Maeryn")_
+Reina terkejut, matanya melebar.
+Reina:“K-Kryle?!?!…”
+Kryle tersenyum kecil, pahit namun tulus.
+Kryle:“haha..Aku hanya menggodamu saja..Reina."
+Reina:"tch.. Kau ini-"
 
-Vyerna:"Mungkin dia sedang pergi kesuatu Tempat.."
-
-_(Reina:"Siapa Maeryn-..")_
----------------------------------
-*Kembali ke reruntuhan beberapa jam yang lalu, Langkah kaki itu akhirnya terdengar jelas di antara reruntuhan. Dari balik pilar batu yang retak, sesosok perempuan berbaju Zirah Kerajaan Vulkrath muncul, wajahnya setengah tertutup tudung. Aura sihirnya tipis cukup lemah untuk tidak mencolok, namun terkontrol dengan rapi.*
-
-*Astrev berhenti melangkah.*
-
-Astrev:"Akhirnya.. Kau datang juga pion kecil"
-
-*Perempuan itu berdiri di depannya menundukkan kepala dengan sikap seorang prajurit sambil membuka tudungnya.*
-
-Maeryn:"Aku datang membawa beberapa informasi"
-
-*Zavyre berdiri beberapa langkah di belakang Astrev. Pandangannya tajam, menilai sosok di hadapannya tanpa ekspresi.*
-
-Zavyre:"Jadi… inikah bayangan yang bersembunyi di istana yang kau maksud itu."
-
-*Maeryn mengangkat kepalanya perlahan. Matanya tenang terlalu tenang untuk seseorang yang hidup di antara rahasia*
-
-Maeryn:"Aku telah berada di Vulkrath cukup lama untuk melihat pola mereka."
-
-*Astrev tersenyum tipis.*
-
-Astrev:"Bagus. Katakan lah Prajurit Divisi Keamanan Istana"
-
-*Maeryn mengeluarkan gulungan kecil dari kantungny. Ia membentangkannya di atas batu datar. Sketsa kasar istana Vulkrath terlihat jelas lorong, menara, dan simbol-simbol pertahanan sihir.*
-
-Maeryn:"Pertahanan utama Vulkrath bergantung pada pilar sihir cahaya yang berada di pusat Istana, tepatnya di ruangan yang selalu dikunci rapat-rapat. Selama sihir cahaya ada, pilar itu bisa menyebarkan Sihir Reina ke seluruh penjuru kerajaan, dan sering digunakan untuk memuat _"Scutum Lucis"_ atau perisai cahaya yang kuat. 
-
-*Zavyre menyipitkan mata.*
-
-Zavyre:"hm..."
-
-Maeryn:"Penjaganya berganti setiap beberapa jam, dan aliran sihirnya tidak pernah benar-benar stabil.”
-
-*Astrev tertawa pelan.*
-
-Astrev:"Celah sekecil apapun akan selalu berguna"
-
-*Maeryn lalu menarik napas, sejenak ragu, sebelum melanjutkan.*
-
-Maeryn:"Namun… pusat dari semua pertahanan itu bukan hanya istana."
-
-*Ia menatap lurus ke arah Zavyre.*
-
-Maeryn:"melainkan dari Putri Reina itu sendiri "
-
-*Udara di sekitar mereka terasa lebih berat.*
-
-Zavyre:"Lanjutkan... "
-
-Maeryn:"Reina adalah jangkar bagi sihir cahaya Vulkrath. Selama emosinya stabil, perlindungan istana akan tetap utuh."
-*Ia berhenti sejenak,lalu melanjutkan kembali*
-"Namun… saat hatinya goyah, aliran sihirnya ikut terguncang."
-
-*Astrev mengangkat alisnya, tertarik.*
-
-Astrev:"Emosi? Yang seperti apa? … cinta, keraguan, atau kehilangan?"
-
-Maeryn:"Ketiganya."
-
-*Zavyre mengepalkan tangannya perlahan. Rasa nyeri samar di dadanya kembali muncul, singkat seperti denyut yang mengingatkan.*
-
-Zavyre:"Jadi kelemahannya… bukan tubuhnya."
-
-*Maeryn mengangguk.*
-Maeryn:"Benar..Melainkan orang-orang yang ia pedulikan. Dan masa lalu yang belum ia lepaskan."
-
-*Astrev menoleh ke Zavyre, senyumnya melebar.*
-
-Astrev:"Dengar itu? Tanpa perlu menghancurkan tembok, kita bisa meruntuhkan istana dari dalam."
-
-*Zavyre tidak menjawab. Pandangannya tertuju pada gulungan itu, namun pikirannya melayang jauh.*
-
-(Zavyre:"Mengapa dada-ku selalu merasa seperti ini secara tiba-tiba")
-
-*Maeryn kembali berbicara, suaranya lebih rendah.*
-
-*Astrev menggulung peta itu,dan mengambilnya*
-
-Astrev:"Informasimu sangat berharga, Maeryn. Kau telah menjalankan tugasmu dengan baik."
-
-*Maeryn menunduk lagi*
-
-Maeryn:"Apa perintah selanjutnya?"
-
-*Astrev menatap ke arah luar reruntuhan, ke arah Vulkrath yang jauh.*
-
-Astrev:"Kau kembali ke istana. Teruslah menjadi bayangan,Dan saat waktunya tiba… buat hati Putri itu goyah."
-
-*Maeryn mengangguk tanpa ragu, lalu berbalik pergi, menghilang di antara puing-puing.*
-
-*Zavyre berdiri diam cukup lama setelah kepergiannya.*
-
-Zavyre:"…Kau terlalu yakin, Astrev."
-
-Astrev:"Karena aku tahu."
-*Ia tersenyum licik*
-"Tidak ada pertahanan yang lebih rapuh daripada perasaan yang belum terselesaikan."
-
-*Zavyre menatap tangannya sendiri, perlahan mengepalkannya.*
-
-Zavyre:"Kalau begitu… kita akan memanfaatkan luapan emosi putri itu, sungguh.. Putri yang sangat Polos"
-
-*Di kejauhan, Vulkrath masih tampak damai tanpa menyadari bahwa satu mata telah lama mengawasinya dari dalam.*
+Kryle:"aku tidak menuntut jawaban. Aku hanya meminta satu hal padamu.”
+Reina:"apa iru?"
+Kryle:"Jangan sembunyikan kebenaran dariku lagi."
+Reina:"hehe.. Aku berjanji"
 ---------------------------------`,
 };
 
