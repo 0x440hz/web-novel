@@ -21,7 +21,7 @@ function Navbar({ isDarkMode, setIsDarkMode }) {
           <Link to="/" className="flex items-center gap-2.5 group">
             <BookOpenIcon className="w-7 h-7 text-emerald-600 dark:text-emerald-400" />
             <span className="text-xl font-bold text-slate-900 dark:text-white tracking-tighter group-hover:text-emerald-600 transition">
-              Novel Rerei
+              Even the Stars Bowed to Her
             </span>
           </Link>
           <div className="flex items-center gap-2 sm:gap-4">
@@ -57,7 +57,7 @@ function LibraryPage() {
           Koleksi Novel
         </span>
         <h1 className="text-4xl sm:text-6xl font-extrabold text-slate-950 dark:text-white tracking-tighter leading-tight mb-4">
-          Novel Rerei
+          Even the Stars Bowed to Her
         </h1>
         <p className="text-lg text-slate-600 dark:text-slate-400">
           Pilih novel yang ingin kamu baca.
