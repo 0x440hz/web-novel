@@ -1,91 +1,81 @@
 const chapter = {
   id: 12,
   arc: "Arc 2: Flame Arc",
-  title: "#12 Bayangan di Balik Gerbang",
+  title: "#12 Bayangan yang Kembali di Bawah Cahaya Bulan",
   content: `
 ---------------------------------
-*Maeryn berjalan masuk dari gerbang samping. Tudungnya sudah dilepas, rambutnya sedikit berantakan seperti orang yang baru kembali dari patroli jauh.*
+*Di Malam hari-nya, istana Vulkrath tenggelam dalam keheningan yang aneh. Lampu-lampu desa terasa telah dipadamkan satu per satu, meninggalkan cahaya bulan dan bintang-bintang yang menyelinap melalui jendela.*
 
-*Belum sempat ia melangkah lebih jauh, dia mendengar suara Lioren yang memanggilnya*
+Reina berdiri di balkon kamarnya.
 
-Lioren:"Maeryn.. Disana kau rupanya"
-
-*Maeryn berhenti. Ia menoleh perlahan.*
-Maeryn:"Solan, selamat malam Kapten"
-Lioren:"malam, darimana saja dirimu?.. Aku mencarimu kemana-mana, dan rekan yang lain terakhir melihat mu di siang hari.."
-Maeryn:"Maaf..Aku diminta memeriksa gang luar dekat distrik tua, Ada gangguan sihir kecil,dan kebetulan Rumah Nenek-ku ada di sekitar sana jadi Aku menumpang sampai lupa waktu..maafkan aku kapten"
-Lioren:"ah.. Begitu..tapi tentang gangguan sihir itu.. Mengapa kau tidak melaporkan nya terlebih dulu?"
-Maeryn:"Aku berniat melakukannya setelah kembali."
-Lioren:"hum..."
-
-*Lioren menatapnya beberapa detik. Tidak menuduh, tapi cukup lama untuk membuat siapa pun merasa diperhatikan.*
-
-Lioren:"langsung saja, Kami sedang meningkatkan keamanan. Ada ancaman yang lebih serius dari yang terlihat"
-Maeryn:"... Nyonya Vyerna sudah memberitahu dirimu ya Kapten"
-Lioren:"he? .. Bagaimana kau tau?.."
-Maeryn:"Maafkan aku kapten, tapi sebenarnya Aku yang saat itu mendampingi Nyonya Vyerna masuk ke hutan, dan sesuai keinginan Nyonya Vyerna, dia tidak ingin Aku menceritakan apapun pada semua orang"
-Lioren:"hah... Kalau begitu, kau sudah tau situasinya, Aku menunjuk mu untuk menjadi penanggung jawab keamanan dalam Istana,pastikan semuanya aman terlebih putri Reina, dan semuanya"
-Maeryn:"Solan.."
-Lioren:".. Jangan sampai Reina  tertekan karena sesuatu yang menyangkut masa lalu"
-Maeryn:"Baik Kapten, Aku akan memperketat keamanan dalam Istana, dan memastikan Putri dan seluruh anggota kerajaan lainnya aman"
-Lioren:"Baiklah, lakukan dari sekarang"
-*Lioren pergi meninggalkan Maeryn sambil menepuk Pundaknya untuk terakhir kali sebelum akhir dia pergi meninggalkan Maeryn*
-
-Maeryn:"Solan......"
-
-*Setelah pertemuan itu, seluruh prajurit yang ada di Vulkrath mulai menaikkan Tingkat Keamanan, meliputi seluruh sisi kerajaan, luar,dalam, depan, belakang.. Semua memiliki keamanan-nya masing-masing yang nyaris tanpa Celah*
+*Angin malam mengibaskan tirai tipis, membelai rambut dengan lembut. Dari kejauhan, halaman istana terlihat tenang...terlalu tenang. Namun dada Reina terasa sesak, seolah ada sesuatu yang sedang mengawasinya dari balik gelap.*
 ---------------------------------
-*Sementara itu Zavyre sudah mulai mendekati Kerajaan seorang diri dan mengintai dari Hutan*
+Reina:"... Perasaan aneh apa ini.."
 
-Zavyre:"Heh... Persetan dengan waktu yang tepat, akan ku hancurkan kerajaan itu sekarang dengan satu serangan"
+Ia mencoba untuk menenangkan pikirannya. Namun tiba-tiba... -
 
-*namun sesaat setelah mengatakan itu Astrev tiba-tiba muncul di belakangnya, sambil memegang pundaknya*
+*Perlahan suara desiran angin malam mulai terdengar yang seakan mengelilingi Reina, dan udara di sekelilingnya menjadi terasa berat.*
 
-Astrev:"Hey.. Apa kau pergi sendiri karena sudah tidak sabar, atau hanya ingin memiliki kekuatan itu untuk dirimu sendiri"
+_("Tidak.. Ini bukan desiran angin malam yang biasanya")_
 
-*Jari-jarinya masih bertengger di pundak Zavyre, namun tekanannya pelan lebih seperti peringatan daripada ancaman.*
+*Bukan angin..Bukan pula hawa malam,Melainkan Aura Sihir yang sudah tidak asing lagi bagi Reina.*
+*Dan seakan mengerti apa yang sedang dirasakan oleh Reina, aura Sihir yang mengelilingi Reina saat itu terasa seperti sedang menyentuh tubuhnya dengan lembut.*
 
-*Zavyre menyeringai balik, menepis tangan itu.*
+Reina:"....ah-hah.."
 
-Zavyre:"Heh.. Untuk apa aku mengikuti perkataan mu"
-Astrev:"Aku kakak-mu"
-Zavyre:"Jadi...?"
+Nafas Reina tersengal oleh perasaan yang di bawa oleh Sihir itu, dan dia menutup matanya untuk sesaat lalu suara yang tidak asing muncul. 
 
-*Zavyre langsung menyerangnya dengan tiba-tiba*
+Zavyre:"Reina... "
 
-Zavyre:"jadi Kenapa.. Kakak? 
+Saat membuka mata Reina sangat terkejut karna Zavyre sudah duduk di pagar balkon tepat di depannya dengan posisi wajahnya sangat berdekatan dengan wajah Reina. 
 
-*Serangan Zavyre melesat seperti kilat gelap. Energi berputar di sekitar tinjunya, menghantam ke arah Astrev,Namun Ketika dia melihat lagi Astrev Sudah berdiri di batang pohon yang ada di sampingnya*
+Zavyre:"Aku siap untuk menang dalam pertarungan kita kali ini... Reina"
+Reina"Kau!!!!... _"FERRUM LUCIS-SECTA!!"_
 
-Astrev:"Ho.. Apa ini penghianatan?"
+*Ratusan bilah cahaya langsung menyerang kearah Zavyre tapi kali ini dia berhasil menghindari semua bilah cahaya tajam itu*
 
-*Angin hutan berdesir, membawa aroma tanah dan daun basah. Di kejauhan, cahaya Vulkrath berkilau di balik pepohonan.*
+Zavyre:"heh.. _"DETONARE!!"_
+Serangan ledakan Sihir malam itu membuat balkon yang menjadi pijakan Reina hancur dan membuat Reina terjatuh dari ketinggian.. Tapi.. 
 
-Zavyre: "Kau selalu bicara tentang rencana, tentang waktu yang tepat, kau ingin menunggu tanda dari Maeryn yang berkamuflase di istana..Tapi setiap detik yang kita buang, kerajaan itu tetap berdiri… dan Reina tetap hidup."
+Zavyre:"DARC BASTILLE!!"
+Sebuah Kurungan yang memiliki bentuk sama persis seperti yang pernah Reina buat menangkap tubuh Reina yang terjatuh dari ketinggian. 
 
-*Astrev menatapnya lama, ekspresinya mengeras.*
-Astrev: "Kau ingin balas dendam. Aku ingin sesuatu yang lebih besar."
-Astrev: "Jika kau menyerang sekarang, kau hanya akan memicu seluruh pertahanan mereka. Para prajurit kerajaan… semuanya akan bergerak. Dan kau akan terjebak."
+*Tubuh Reina terhenti mendadak di udara.*
 
-Zavyre: “Aku tidak takut pada mereka.”
+*Kurungan sihir gelap itu menutup rapat di sekelilingnya, berkilau redup seperti kaca obsidian yang memantulkan cahaya bulan. Nafas Reina tersendat, bukan karena jatuh melainkan karena kesadaran pahit.*
 
-Astrev: “Aku tahu. Itulah masalahmu.”
+Reina:"…sihir ini…memiliki Struktur mantra yang sama persis…"
 
-*Astrev melangkah mendekat, suaranya merendah namun tajam.*
-Astrev: "Kau ingin menghancurkan satu kerajaan. Aku ingin meruntuhkan takdir yang melindunginya."
+*Zavyre berdiri di atas puing balkon yang hancur, jubahnya berkibar pelan tertiup angin. Tatapannya tenang, terlalu tenang untuk seseorang yang baru saja menjatuhkan seorang putri dari ketinggian.*
 
-*Sesaat, keheningan jatuh di antara mereka,dan Zavyre mengepalkan tangannya*
-Astrev: "Kita tidak menyerang gerbang. Kita memancing mereka membuka pintu dari dalam."
----------------------------------
-*Di Tempat Prajurit berjaga*
-Prajurit:"Per Fidem et gloriam,Kapten Lioren!"
-Lioren:"Solan"
-Prajurit:"Kapten ada laporan dari penjaga garis depan bahwa gesekan Sihir dari arah Hutan yang tidak diketahui asalnya"
-Lioren:"Hm-.. Kita harus memeriksanya"
-Lioren:"dan kau cari Maeryn untuk berjaga di istana"
-Prajurit:"Solan!.."
+Zavyre:"Heh..Kau sangat pintar..dengan mudah kau sudah menyadarinya."
 
-*Lioren Berjalan keluar begitupun prajurit itu dan meminta beberapa prajurit untuk ikut dengannya kehutan*
+senyum tipis terukir di bibirnya.
+
+Zavire:"ku tidak pernah lupa caramu merangkai mantra, Putri."
+
+*Kurungan itu perlahan turun, melayang lembut hingga berhenti setinggi dadanya. Reina mengepalkan tangan, cahaya sihir mulai berkumpul di telapak tangannya.*
+
+Reina:"Jangan sebut-sebut seolah kau mengenalku"
+Zavyre:"oh.. Aku anggap itu adalah permintaan untuk melepaskan diri"
+Reina:"!!!!!"
+
+*Dalam sekejap kurungan tadi dijatuhkan olehnya dan membuat Reina kembali jatuh dari ketinggian didalamnya*
+
+*Namun sebelum kurungan itu benar-benar pecah menghantam tanah,Sebuah tebasan pedang memotong udara malam.*
+
+*Kurungan hancur berkeping-keping, cahaya dan bayangan berhamburan bersamaan.Reina terjatuh namun kali ini, sebuah tangan kuat menangkapnya dari belakang.*
+
+Kryle:"Cukup!!!"
+Reina:"K-KRYLE?!!"
+
+*Kryle menurunkan Reina perlahan ke tanah, lalu berdiri di depannya, pedangnya terhunus, tubuhnya membentuk posisi bertahan sempurna.*
+
+Kryle:"Kau sudah melangkah terlalu jauh kedalam istana dan Siapapun kau… satu langkah lagi, dan aku tidak akan menahan diri dan tanpa ragu untuk mengayunkan pedang ini!"
+Reina:"Kryle... Jangan-"
+Kryle:"TIDAK REINA!! DIA ADALAH PENYUSUP DAN MUSUH VULKRATH!"
+
+_"Aku Harus bisa Melindunginya"_
 ---------------------------------`,
 };
 
