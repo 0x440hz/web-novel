@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap");
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --font-inter: "Inter", sans-serif;
+  --font-lora: "Lora", serif;
+}
+
+body {
+  font-family: var(--font-inter);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.novel-content {
+  font-family: var(--font-lora);
+}
+
+.novel-content p {
+  @apply mb-7 text-slate-800 dark:text-slate-200;
+  line-height: 1.85;
+  letter-spacing: 0.01em;
+}
+
+html.dark {
+  background-color: #000000;
+}
+
+.dark .dark\:bg-slate-950 {
+  background-color: #000000 !important;
+}
+
+.dark .dark\:bg-slate-950\/95 {
+  background-color: rgba(0, 0, 0, 0.85) !important;
+}
+.dark .dark\:bg-slate-900\/50 {
+  background-color: rgba(10, 10, 10, 0.5) !important;
+}
+
+.dark .dark\:bg-slate-900 {
+  background-color: #0a0a0a !important;
+}
+.dark .dark\:bg-slate-800 {
+  background-color: #171717 !important;
+}
+.dark .dark\:border-slate-800 {
+  border-color: #262626 !important;
+}
+.dark .dark\:border-slate-700 {
+  border-color: #404040 !important;
+}
