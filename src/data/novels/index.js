@@ -1,46 +1,41 @@
-import novel1Meta from "./novel1/meta";
-import novel2Meta from "./novel2/meta";
+// Get all meta files. These are the entry points for each novel.
+const metaModules = import.meta.glob('./*/meta.js', { eager: true });
 
-import novel1Ch1 from "./novel1/chapters/ch1";
-import novel1Ch2 from "./novel1/chapters/ch2";
-import novel1Ch3 from "./novel1/chapters/ch3";
-import novel1Ch4 from "./novel1/chapters/ch4";
-import novel1Ch5 from "./novel1/chapters/ch5";
-import novel1Ch6 from "./novel1/chapters/ch6";
-import novel1Ch7 from "./novel1/chapters/ch7";
-import novel1Ch8 from "./novel1/chapters/ch8";
+// Get all chapter files.
+const chapterModules = import.meta.glob('./*/chapters/*.js', { eager: true });
 
-import novel2Ch1 from "./novel2/chapters/ch1";
+// Get all character files.
+const characterModules = import.meta.glob('./*/characters/*.js', { eager: true });
 
-import reiki from "./novel1/characters/reiki";
-import rathail from "./novel1/characters/rathail";
-import shun from "./novel1/characters/shun";
-import tsukiko from "./novel1/characters/tsukiko";
-import michio from "./novel1/characters/michio";
+// A helper to extract the novel's folder name from a path (e.g., './novel1/meta.js' -> 'novel1')
+const getNovelFolder = (path) => {
+    const parts = path.split('/');
+    if(parts.length >= 2) {
+        return parts[1];
+    }
+    return null;
+}
 
-import karakterA from "./novel2/characters/karakter-a";
+export const novels = Object.keys(metaModules).map(metaPath => {
+  const novelFolder = getNovelFolder(metaPath);
+  const meta = metaModules[metaPath].default;
 
-export const novels = [
-  {
-    ...novel1Meta,
-    chapters: [
-      novel1Ch1,
-      novel1Ch2,
-      novel1Ch3,
-      novel1Ch4,
-      novel1Ch5,
-      novel1Ch6,
-      novel1Ch7,
-      novel1Ch8,
-    ],
-    characters: [reiki, rathail, shun, tsukiko, michio],
-  },
-  {
-    ...novel2Meta,
-    chapters: [novel2Ch1],
-    characters: [karakterA],
-  },
-];
+  const novelChapters = Object.keys(chapterModules)
+    .filter(path => getNovelFolder(path) === novelFolder)
+    .map(path => chapterModules[path].default)
+    .sort((a, b) => a.id - b.id);
+
+  const novelCharacters = Object.keys(characterModules)
+    .filter(path => getNovelFolder(path) === novelFolder)
+    .map(path => characterModules[path].default);
+
+  return {
+    ...meta,
+    chapters: novelChapters,
+    characters: novelCharacters,
+  };
+});
+
 
 export function getNovel(slug) {
   return novels.find((n) => n.slug === slug) ?? null;
