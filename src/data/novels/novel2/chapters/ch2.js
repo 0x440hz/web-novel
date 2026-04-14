@@ -1,5 +1,5 @@
 const chapter = {
-  id: 1,
+  id: 2,
   arc: "Arc 2: Flame Arc",
   title: "#2 Nyala Terakhir Sebuah Kerajaan",
   content: `
