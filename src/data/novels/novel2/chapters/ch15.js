@@ -1,130 +1,138 @@
 const chapter = {
   id: 15,
   arc: "Arc 2: Flame Arc",
-  title: "#15 Pengkhianatan, Pengorbanan, dan Runtuhnya Cahaya",
+  title: "#15 Bulan yang Sama, Takdir yang Berbeda",
   content: `
 ---------------------------------
-*Di desa keadaan masih sangat kacau,Semua penduduk yang selamat berhasil dibawa te tempat yang lebih aman, Vyerna dan Lioren sudah mulai kelelahan menghadapi makhluk-makhluk kegelapan yang terus menerus muncul*
-
-Vyerna:"..Ah..bagaimana Reina dan Kaelous"
-
-*Lioren mengayunkan pedangnya sekali lagi*
-Lioren:"hah... Aku tidak tahu.. Tapi untuk sesaat sebelumnya.. Aku sempat merasakan ada salah satu sihir yang menghilang"
-Vyerna:"Aku juga merasakannya.."
-Lioren:"Aku harap bukan hal buruk... "
-
-*Vyerna melihat kearah ruang pilar sihir istana Vulkrath, dan dia melihat sudah banyak lingkaran yang terbuat dari benang cahaya dan juga bintang-bintang yang sedang menyebar ke seluruh langit sekitar Vulkrath*
-
-Vyerna:".. L-lioren?... "
-Lioren:"..ini tidak bagus..apa yang terjadi pada Reina!?-"
-*tiba-tiba makhluk kegelapan kembali menyerang mereka dengan hendak menerkam Lioren*
-
-Vyerna:"LIOREN!!!"
-Lioren:"Preservant!!..."
-*Sebuah kubah perisai mengelilingi mereka berdua dan membuat mahluk tadi langsung hancur, begitupun perisai tersebut*
-
-Vyerna:"Kau tidak apa-apa?!"
-*Lioren mengangguk*
-
-*tiba-tiba Lioren berdiri di depan Vyerna sambil memegang pedangnya kedepan*
-
-Lioren:"Kebelakang.. Ada yang datang"
-Vyerna:"....-"
-
-*Dari balik debu reruntuhan, ternyata Maeryn yang muncul disitu*
-
-Lioren:"MAERYN!!?!!, Ternyata kau..."
-Vyerna:"MAERYN!!.. Kau baik-baik saja?"
-*Maeryn hanya menunduk dengan senyap,dan Vyerna hendak menghampiri maeryn lebih dekat untuk memastikan dia baik-baik saja*
-
-Vyerna:"Maeryn...Kau..-"
-Maeryn:_"Atra Invocatio"_
-Vyerna:"-!!"
-Lioren:"VYERNA!!!!"
-
-*Tiba-tiba ada dua mahluk Kegelapan berbentuk seperti Ular dengan sisik tajam yang menyerang Vyerna dari kedua sisi*
-
-*Dua makhluk kegelapan berbentuk ular itu melesat dari lingkaran sihir Maeryn, sisik mereka berkilau seperti baja hitam, rahang terbuka lebar.*
-*Lioren bergerak tanpa berpikir. Ia melompat ke depan Vyerna, mengayunkan pedangnya.*
-
-Lioren:"Jangan sentuh dia!!"
-
-*Bilahnya menebas salah satu ular itu, memaksanya terhuyung ke samping. Namun yang lain berhasil menyelinap, melingkari kaki Vyerna.*
-
-Vyerna:"Hah!!!!-.._Serpens Oblivio!_"
-Lioren:"Maeryn .. Apa yang kau lakukan!!!?!"
-Maeryn:".... Mungkin kalian sudah tau apa yang ku lakukan.."
-Vyerna:"...kau bekerja sama dengan penyihir itu kan!?!"
-Lioren:"SIALAN!! AKU AKAN MENGHANCURKAN MU JUGA SEPERTI MAKHLUK-MAKHLUK SIALAN PANGGILAN MU ITU,MAERYN!!!"
-
-Maeryn:_"Umbra Nexus"_
-Lioren:_"Gladius Iuramentum!!!!!"_
-Vyerna:_"Viperis Noctis! "_
+Malam itu kembali Sunyi tetapi tidak sesunyi sebelumnya,aku dan kryle bisa mendengar kembali suara-suara malam saat itu dan tanpa aku sadari aku melihat ke langit dan menatap Bulan yang masih bersinar dengan lembut.
 ---------------------------------
-*Kembali ke Ruang pilar Reina sedang merapalkan mantra tanpa henti dengan di kelilingi oleh perisai cahaya yang sangat kuat, sementara itu Astrev dan Zavyre terus mencoba memecahkan perisai yang melindungi Reina*
+Kryle:"Reina.... Reina.. Ayo aku akan membawamu kembali kedalam"
+Reina:"H.. Hah?"
 
-Zavyre:"... APA YANG DIA LAKUKAN!?!"
-Astrev:"Sial.. Tidak ada serangan kita satu pun yang berhasil.."
-Zavyre:"Tch,wanita yang menyebalkan, _"TENEBROUSE!"_
+Tanpa aba-aba apapun kryle langsung menggendong Reina untuk masuk ke dalam istana. 
 
-*Zavyre terus-menerus melontarkan serangan sekuat tenaga sedangkan Astrev terus memikirkan apa yang harus dilakukan*
+Reina:"h-hey.. Aku- berat-"
+Kryle:"aku tak peduli, yang penting kau kembali ke kamar mu dengan cepat"
 
-Astrev:"apa... Apa yang bisa melemahkan putri itu-......"
+Sepanjang jalan di dalam istana, ternyata benar para penjaga tertidur karna efek sihir Vyerna, dan Reina pun mulai menebar sedikit sihir untuk membangunkan mereka semua. 
 
-*Tiba-tiba pikirannya memutar kembali percakapan mereka dengan Maeryn di reruntuhan*
+Kryle:"Reina?.. Jangan terlalu banyak"
+Reina:"Aku tahu.. Terimakasih kryle"
 
-(Percakapan di reruntuhan) 
-_Maeryn:"sampai saat ini yang kutahu salah satu hal yang bisa membuat nya goyah adalah emosinya sendiri"_
-
-_Astrev:"Emosinya ya?"_
-
-_Maeryn:"Dan yang paling bisa membuat pertahanannya goyah adalah keterlibatan dia dengan orang yang dia sayangi, seperti Teman-teman nya itu"_
-
-_Zavyre:"Hah.. Itu mudah untuk dilakukan, kita hanya perlu melenyapkan salah satu dari temannya itu"_
+Kryle hanya mengangguk sambil tetap menggendong Reina ke kamarnya dan setelah sampai dia pun membiarkan Reina untuk beristirahat.
 ---------------------------------
-*Astrev langsung tersadar dari lamunan-nya dan langsung terpikirkan satu hal yang bisa melemahkan Reina*
+Sementara itu di tempat persembunyian Zavyre,didalam gua tersembunyi yang kaya akan kekuatan sihir di setiap dindingnya.
 
-Astrev:"heh... Aku tahu sekarang"
-_"Nexus Bestiae! "_
+Zavyre:".. Padahal hanya tinggal sedikit lagi sampai aku benar-benar menghabisinya"
 
-*Zavyre yang sedang menyerang perisai Reina tiba-tiba terhenti dengan paksa, dan muncul rantai tajam yang melilit diri-Nya*
+Dia mulai memukul Dinding gua hingga beberapa serpihan dinding berjatuhan
 
-Zavyre:" Ha!?!!!,APA INI!!"
-*Zavyre langsung melihat kearah astrev yang rupanya membuat mantra pengikat untuk Zavyre*
+Zavyre:"Tch.. "
+Vyerna:"wah wah.. Lihat siapa yang akhirnya memutuskan untuk kembali pulang..pss"
 
-Zavyre:"ASTREV!! APA YANG KAU LAKUKAN DASAR KEPARAT!BUKAN KAH KAU INGIN MENANG,MENGAPA KAU MENGHENTIKAN KU!?!"
+Zavyre menengok ke arahnya dan melihat ada mayat prajurit Vulkrath.
 
-Astrev:"... Heh.. Tentu saja aku ingin menang.. Tapi.."
+Zavyre:"... Siapa dia?"
+Vyerna:"ohhh tenang saja dia sudah mati,psss~"
+Vyerna:"manusia itu memang bodoh ya.. Aku hanya perlu menjanjikannya sebuah kenikmatan, lalu dia langsung mau mengikuti perintahku.. Pss~"
 
-*Astrev Mengangkat tubuh Zavyre ke udara dengan mengendalikan rantainya*
-Zavyre:"APA YANG KAU-!!?!"
+Zavyre:"bagaimana jika ada yang menyadari kehilangan orang itu? "
+Vyerna:"ahh, Zavyre kau lupa aku ini Wanita yang pintar?, tenang saja tidak ada siapapun yang akan mencarinya~"
+Zavyre:"hah.. Terserah dirimu saja"
 
-Astrev:"aku ingin menang tapi....tidak bersama dengan mu lagi..._"Lancea Tenebris!"_
+*Zavyre Berjalan keluar Gua meninggalkan vyerna didalam dan mendapati dirinya menatap ke bulan dimalam itu.*
 
-*Muncul lima Tombak yang muncul dari bawah Zavyre dan langsung menusuknya dengan mudah*
+*Tak lama kemudian Vyerna menghampirinya dengan niat untuk menggodanya sedikit.*
+---------------------------------
+Vyerna:"Reina..bulannya sangat cantik malam ini, iya kannn iya kaaannn~ psss"
 
-Astrev:"Kau sangat payah Zavyre, aku baru teringat kembali jika kau hanyalah jiwa mati yang dimanfaatkan olehku"
-Zavyre:"B-Ba.. Ji.. Ngan"
-Astrev:"Senang bisa bertemu dengan mu lagi adikku.. Sayang sekali harus berakhir disini:"
+Zavyre mendengar hal itu langsung memalingkan wajahnya dari Vyerna. 
 
-*Tiba-tiba astrev merasakan aura sihir cahaya Reina mulai melemah*
+Zavyre:"Hentikan, itu hanya omong kosong saja.."
 
-Astrev:"heh.. Aku berhasil"
+Angin malam menyapu lembut mulut gua, membawa aroma tanah basah dan sihir purba yang berdenyut pelan di udara.
 
-*Reina dengan Cepat tiba-tiba langsung menyerang nya dengan serangan yang tidak berhenti namun presisi dan kecepatan nya jauh lebih lemah dari sebelumnya*
+Vyerna tersenyum miring melihat reaksi Zavyre.
+Matanya menyipit, penuh ejekan yang disengaja.
 
-Reina:"MATILAH KAU ASTREV!!!!!"
-Astrev:"Heh... Dasar Lemah"
-_"Regnum Tenebrae"_
-Reina:"!!!... "
-*Astrev Menari Reina kedalam ruang kegelapan abadi dan mengikatnya dengan rantai yang sama dengan Zavyre sebelumnya*
-Astrev:_"Vinculum Ruinae!!!!!"_
+Vyerna:"Omong kosong? Hehe~ wajahmu tidak berkata begitu, Zavyre… psss~"
 
-*Sebelum melakukan hal lain Rantai yang mengikat Reina meledak disekelilingnya dan bisa di pastikan karna hal itu Reina kehilangan kesadarannya dengan cepat*
+Zavyre mengepalkan tangannya. Cahaya kelam di sekelilingnya bergetar sesaat, seakan merespons gejolak di dalam dadanya.
 
-*Astrev langsung menjatuhkan tubuh Reina ke tanah dekat dengan tubuh Zavyre yang mulai menjadi abu karena kehilangan Sihir, begitu juga Ruangan gelap yang astrev buat langsung sirna*
+Zavyre:"Diam. Jangan sebut namanya lagi."
+Vyerna:"dengar Zavyre, jika kau seperti ini terus-menerus maka itu akan membuatmu semakin ragu.. Sebaiknya lakukan apa yang sebenarnya ingin kau lakukan."
+Zavyre:".... Tch, apa yang kau tahu tentang diriku"
+Vyerna:"Pss~.. Percuma saja, katakan padaku Zavyre.. Apa yang sebenarnya kau inginkan?"
+Zavyre:"Kekuatan"
+Vyerna:"apa yang akan kau lakukan jika kau sudah mendapatkan kekuatan yang sangat kau cari itu?"
+Zavyre:"... Aku akan menjadi yang terkuat, dan akan bisa menguasai seluruh wilayah ini"
+Vyerna:"lalu?..."
+Zavyre:"... Lalu.... Aku..akan-...."
+Vyerna:"pss~sudah kuduga.. Kau juga kebingungan"
 
-Astrev:".. Heh.. Dengan ini aku akan merenggut semuanya dari-Mu Dan menetapkan runtuhnya kekuasaan mu, Putri Vulkrath.."
+Vyerna melipat kedua tangannya di bawah dadanya sambil terus melihat ke arah Zavyre. 
+
+Vyerna:"Biar ku beritahu satu hal.."
+Zavyre:"...?"
+Vyerna:"semakin lama kau membiarkannya, semakin sulit juga kau mendapatkan nya"
+Vyerna:"Dan nampak nya orang yang kau cintai sudah mulai mencintai orang lain"
+Zavyre:".... Tch.. Jangan katakan hal bodoh seperti itu "
+---------------------------------
+*Keheningan kembali jatuh, lebih berat dari sebelumnya. Angin malam berhenti seolah enggan ikut campur dalam percakapan mereka.*
+
+Vyerna tersenyum tipis, kali ini tanpa tawa lebih tajam, lebih menusuk.
+
+Vyerna:"Bodoh? Atau kau hanya takut mendengarnya, Zavyre."
+
+Zavyre berbalik dengan cepat, tatapannya gelap dan berbahaya. Aura kelam di sekeliling tubuhnya berdenyut keras, membuat batu-batu kecil di tanah bergetar.
+
+Zavyre:"Aku tidak takut pada apa pun."
+
+Vyerna mendekat selangkah, suaranya direndahkan, seakan membisikkan kebenaran yang tak ingin ia dengar.
+
+Vyerna:"Kalau begitu jawab aku. Saat kau menatap bulan itu… apa yang kau lihat?”
+“Kekuasaan? Kemenangan? Atau wajah Reina yang selalu kau sangkal?"
+
+Zavyre terdiam. Rahangnya mengeras. Untuk sesaat, dunia di sekelilingnya terasa jauh.
+
+Bayangan Reina,senyum lelahnya, tatapan matanya,melintas cepat dalam benaknya.
+
+Zavyre:"…Diam."
+
+Vyerna tertawa pelan.
+
+Vyerna:"Lihat? Bahkan sekarang pun kau ragu.Kryle ada di sisinya. Melindunginya. Menggendongnya."
+
+_"Sementara kau… berdiri di sini, ditemani kegelapan."_
+
+Cahaya kelam di tangan Zavyre memadat, dan bergetar liar.
+
+Zavyre:"Cukup!!!!"
+
+Tanah di bawah kakinya retak tipis.
+
+Vyerna menghentikan langkahnya, namun senyumnya semakin lebar.
+
+Vyerna:"Jika kau ingin kekuatan, maka buang perasaan itu.
+Vyerna:"Atau… gunakan perasaan itu sebagai bahan bakar."
+
+Zavyre menunduk, napasnya berat.
+
+Zavyre:"Dan jika aku memilih jalan itu…"
+
+Vyerna:"Pss~ maka kau harus siap kehilangan sesuatu yang berharga."
+
+Zavyre mengangkat kepalanya perlahan, menatap bulan yang masih bersinar dingin.
+
+Zavyre (pelan):
+“…Jika itu harga yang harus kubayar.”
+
+Vyerna menyeringai puas.
+
+Vyerna:"Bagus."
+Vyerna:"Kalau begitu, bersiaplah, Zavyre,Karena malam ini, keraguanmu mulai berubah menjadi pilihan."
+
+*Di kejauhan, bulan tetap bersinar lembut tak tahu bahwa cahaya itu perlahan menjadi saksi lahirnya tekad yang akan mengguncang seluruh Vulkrath.*
 ---------------------------------`,
 };
 
