@@ -71,10 +71,14 @@ export const novels = Object.keys(metaModules).map(metaPath => {
   const novelFolder = getNovelFolder(metaPath);
   const meta = metaModules[metaPath].default;
 
-  const novelChapters = Object.keys(chapterModules)
-    .filter(path => getNovelFolder(path) === novelFolder)
+  const filteredChapterModules = Object.keys(chapterModules)
+    .filter(path => getNovelFolder(path) === novelFolder);
+
+  const novelChapters = filteredChapterModules
     .map(path => chapterModules[path].default)
     .sort((a, b) => a.id - b.id);
+
+
 
   const novelCharacters = Object.keys(characterModules)
     .filter(path => getNovelFolder(path) === novelFolder)
