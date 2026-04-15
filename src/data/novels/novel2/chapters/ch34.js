@@ -1,7 +1,7 @@
 const chapter = {
   id: 34,
   arc: "Arc 2: Flame Arc",
-  title: "#34 ebangkitan yang Ternoda oleh Pengkhianatan",
+  title: "#34 Kebangkitan yang Ternoda oleh Pengkhianatan",
   content: `
 ---------------------------------
 *Di tempat yang sangat jauh dari istana Vulkrath…*
