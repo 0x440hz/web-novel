@@ -1,125 +1,78 @@
 const chapter = {
   id: 13,
   arc: "Arc 2: Flame Arc",
-  title: "#13 Cahaya yang Terperangkap, Bayangan yang Menyerang",
+  title: "#13 Di Dalam Kegelapan, Cahaya Terakhir Bertahan",
   content: `
 ---------------------------------
-*Lioren dan para prajurit yang berada di hutan mencari asal dari sihir yang tiba-tiba muncul, namun setelah beberapa saat pencarian mereka tidak bisa menemukan dimana sumber sihir tersebut*
+Zavyre:_"Exilium Domini"_
 
-Prajurit:"Kapten, kamu sudah menyusuri hutan dengan radius 10 meter dan tidak ada tanda sesuatu atau seseorang yang bisa mengakibatkan ledakan sihir"
-Lioren:"... Hm, baiklah aku rasa itu ledakan sihir yang cukup besar namun tipis sehingga bisa langsung menghilang"
-Prajurit:"Kami menunggu petunjuk mu berikutnya kapten"
-Lioren:"Kita harus segera kembali ke kerajaan"
-
-*semua prajurit setuju dan mereka semua hendak kembali ke Vulkrath, namun sesaat setelah mereka berbalik badan, tiba-tiba ada ledakan sihir gelap yang sangat besar dari arah Vulkrath*
-
-Prajurit:"KAPTEN!!!"
-Lioren:"KITA HARUS CEPAT!"
-
-(Lioren:"Sial bagaimana bisa keamanan di tembus dengan mudah")
-
-*beberapa menit kemudian mereka akhirnya sudah kembali ke kerajaan disana banyak mahluk kegelapan yang mulai mendatangi mereka*
-
-Lioren:"KITA BAGI KELOMPOK, BANTU WARGA DESA, DAN SISANYA KITA SERANG MAHKLUK INI!"
-Prajurit:"SOLAN!"
-
-*Terjadi kekacauan yang besar di kerajaan pada malam itu*
+*Zavyre membuat domain yang mengurung mereka, dan seketika dunia di sekeliling retak seperti kaca yang dipaksa tunduk pada kegelapan abadi. Cahaya bulan terpotong, langit runtuh ke dalam kegelapan pekat, digantikan oleh kubah bayangan yang berdenyut perlahan seolah bernapas.*
 ---------------------------------
-*Di dalam istana, Reina menghampiri Vyerna dan Kaelous ke kamar mereka masing-masing dan mengajak mereka untuk diam di tempat yang lebih aman*
+*Zavyre berdiri di tengah domain, tenang, bayangannya terpecah dan menyatu di dinding gelap yang melingkari mereka.*
 
-Reina:".. Vyerna, Kaelous.. Kalian baik-baik saja bukan?"
-Vyerna:"A-aku baik-baik saja"
-Kaelous:"apa yang terjadi Reina? .."
-Reina:"Beberapa menit yang lalu aku merasakan sihir yang datang dengan cepat, untungnya aku berhasil membuat penghalang agar tidak terjadi kerusakan yang terlalu banyak"
-Vyerna:"... Sihir ini.. Zavyre!"
-Kaelous:"Zavyre!?.. Bukankah dia sudah tiada?..."
-Reina:"hah.. Aku akan menceritakan nya nanti, saat ini kita harus membantu yang lain.."
+Kryle:"Reina! Aku akan melindungi mu.. Jadi tetaplah dibelakang ku"
+Reina:"JANGAN KAU TIDAK AKAN MAM-"
+Kryle:"AKU TAU ITU!.. Tapi jika tidak ada yang bertahan maka dia akan menang dengan mudahnya"
 
-*Vyerna dan Kaelous menganggukkan kepala mereka*
-Kaelous:"...kita berpencar"
-Vyerna:"Benar aku sempat melihat ada makhluk kegelapan yang juga muncul.."
-Reina:"Benar.. Aku akan pergi ke pilar inti.."
-Vyerna:"Baiklah..."
-Kaelous:"Hati-hati Reina..."
-Reina:"Kalian juga.. Aku mengandalkan kalian!"
+Kryle mengangkat pedangnya, meski lengannya terasa berat, seolah udara menekan tulang-tulangnya.
 
-*Mereka berpencar dan Reina berlari menyusuri lorong istana yang kini dipenuhi gema alarm sihir dan cahaya merah dari segel pertahanan yang mulai bergetar. Debu melayang di udara, dan bayangan-bayangan hitam bergerak di balik dinding seperti sesuatu sedang mencari celah.*
+Zavyre:"Keberanian mu untuk menghadapi seseorang yang lebih kuat dari dirimu sendiri patut ku hargai.. "
+Kryle:"…Reina. Tetap di belakangku!"
 
-*Ia menggenggam Dada kiri-nya, merasakan denyut Pilar Inti yang semakin dekan dengan kehadirannya ke kedalaman istana.
+Zavyre melangkah dan tiba-tiba ia sudah berada tepat di depan Kryle.
 
-Reina:"Zavyre..untuk sekarang aku akan melawan-mu, demi Vulkrath"
+Kryle:"..!!!! "
+Zavyre:_"Umbra Severance"_
 
-*Di sebuah ruang besar berbentuk kubah, Pilar Inti berdiri di tengah, menjulang seperti kristal raksasa yang dipenuhi aliran cahaya biru dan emas. Namun kini, garis-garis hitam seperti retakan mulai merayap di permukaannya.*
+Zavyre melancarkan serangan yang di mana kegelapan di sekelilingnya berubah menjadi puluhan bilah bayangan tajam yang menebas tanpa henti yang datang dari segala arah seakan hendak mengoyak tubuh kryle dengan brutal. 
 
-*Reina mendekat dan menempelkan telapak tangannya ke penghubung sihir pilar itu*
+Reina:"KRYLE!!!"
 
-*Cahaya lembut menjalar dari tangannya,menandakan dirinya sudah bisa memancarkan sihir ke seluruh Vulkrath*
+Namun Kryle tetap berdiri di depan Reina, pedangnya berputar cepat, menahan sebagian tebasan. Setiap benturan mengirimkan getaran brutal ke lengannya, memaksa lututnya perlahan turun.
 
-_"Luminara Requiem*_
+Kryle:".. U.. Ugh..(Ini hanya serangan awalnya tapi.. Rasanya aku ingin cepat-cepat mati, aku dia sangat kuat)"
+Kryle:"TAPI AKU TIDAK AKAN KALAH!!!!"
 
-*Butiran-butiran cahaya melesat dari pilar keluar Istana dan menyebar keseluruh Vulkrath lembut muncul di udara, seperti debu bintang yang tertiup angin malam. Mereka berkilau hangat, tenang, dan indah… namun di balik kelembutannya tersimpan kekuatan pemurnian yang mutlak.*
+Kryle:_"Ferrum Iusiurandum"_!!!! 
 
-*Butiran cahaya itu melayang perlahan ke arah Mahluk kegelapan yang menyebar Tidak ada ledakan keras, tidak ada kilatan menyilaukan. Saat mereka menyentuh tubuh makhluk kegelapan, cahaya itu meresap seperti embun, masuk ke dalam bayangan dan energi gelap yang menyelimutinya,dan mahkluk itu langsung hancur di tempat mereka berdiri.
-
-*namun makhluk itu tetap datang dari segala sisi, dari tengah Istana Reina masih bisa mendengar dentingan pedang yang saling menyahut menandakan Ini belum selesai*
-
-Reina:"Semoga ini cukup..setidaknya setiap 20 menit sihirnya akan kembali, aku harus segera pergi keluar.."
-
-*Saat Reina berbalik badan di pintu sudah berdiri sosok berambut putih panjang menghalangi jalan keluarnya*
-
-Astrev:".. Oh kemana kau ingin pergi Putri?.."
-Reina:"Zavy-.. Tidak kau bukan Dia..."
-Astrev:"Hehe.. Tentu saja bukan.."
-
-*Astrev maju beberapa langkah kedepan Reina, dan sebaliknya Reina berjalan mundur perlahan, sampai akhirnya dia menabrak sisi pilar. 
-
-*Astrev menahan  Reina untuk pergi dari ruangan itu*
-
-Astrev:"Tidak perlu terburu-buru putri.. Aku datang kesini untuk mengambil sesuatu dari dirimu.."
-Reina:"Apa yang kau inginkan?!.."
-
-*Astrev Tersenyum sambil mengulurkan tangan nya yang perlahan muncul pedang gelap yang tajam langsung mengarah ke Wajah Reina*
-
-Astrev:"Hidup mu yang abadi itu.."
-Reina:_"Lux Gladius"_, Kita lihat saja"
-
-*Reina memadatkan cahaya menjadi sebuah bilah pedang yang sangat tajam*
-
-*Astrev Tersenyum tajam dan tanpa aba-aba lain, dia langsung maju sambil mengayunkan pedangnya*
+Kryle mengayunkan pedangnya dan hembusan dari ayunan itu membuat sebuah tebasan besar tajam yang berhasil mengenai zavyre dengan tepat dan terpental ke belakang ke jarak yang cukup jauh. 
 ---------------------------------
-*Diluar istana Kaelous dan Vyerna sedang berusaha mengalahkan pasukan Mahkluk kegelapan yang tidak ada habisnya*
+Kryle dengan cepat langsung mengalihkan pandangannya pada Reina.
 
-Kaelous:_"Tempus Claustra!"_
-*Gerakan Mahluk kegelapan terhenti seolah waktu disekitar Kaelous pun terhenti, dan Vyerna Menyerang mereka yang berhenti dengan lilitan ular yang menghancurkan mereka seketika*
-Vyerna:_"Serpens Oblivio!"_
+Kryle:"Reina, kau tidak apa-apa?!"
 
-Kaelous:"Mereka tidak ada habisnya..."
-Vyerna:"Sebentar lagi pagi.. Dan mereka tidak berkurang...aku pikir mereka sudah diperkuat oleh seseorang"
-Kaelous:"aku harap Reina baik-baik saja.. Dia belum terlihat"
+Dia meraih tangan Reina untuk memeriksa keadaan nya.
 
-*Tiba-tiba ada makhluk yang terlihat lebih besar dari sebelumnya menyerang kearah mereka*
+Reina:"Kryle.. Tubuh mu-.. Kau tidak boleh bertarung lagi!"
+Kryle:"tidak Reina, aku akan tetap melindungi dirimu.. Walaupun bayarannya adalah nyawaku sendiri"
 
-Kaelous:"VYERNA!! _"TEMPUS CHRON-"_
+*Tiba-tiba saja Ada semacam Bola Kegelapan yang keras menuju kearah mereka yang berasal dari tempat Zavyre berada.*
 
-*Tiba-tiba kepala mahkluk itu sudah ditebas dari belakang oleh Lioren yang muncul*
+Zavyre:"Heh... Bahkan tidak ada goresan sama sekali, prajurit"
+Kryle:"!!!!"("Tidak mungkin dia.. Bisa bertahan dari serangan ku Tadi!?!")
+Zavyre:"Hah.. Kau sangat tidak berguna untuk sekelas "Pemimpin prajurit kerajaan".. Bahkan seseorang yang berusaha kau lindungi saja lebih kuat daripada dirimu sendiri."
 
-Lioren:"VYERNA,Kaubaik-baik saja!?!"
-Vyerna:"Lyo!.."
-(Kaelous:"Lyo-?") 
+Kryle membeku..masih tidak percaya dengan serangannya yang tidak berefek apapun pada Zavyre, ditambah kondisi tubuh Kryle yang sudah melemah sejak serangan pertama Zavyre. 
 
-*Vyerna menghampiri Lioren dan Lioren langsung memeluknya*
+Tiba-tiba, Reina mulai berdiri di depan kryle. 
 
-Lioren:"Kau baik-baik saja kan?.."
-Vyerna:"Aku baik-baik saja..."
-(Kaelous:"kau tidak akan menanyakan keadaanku?") 
+Kryle:"Reina jangan-!"
 
-Vyerna:".. Reina belum kembali dari dalam Ruang pilar sihir... Tapi dia sudah berhasil mengaktifkan sihirnya"
-Lioren:"Aku merasakannya juga sihir itu akan tetap ada setiap 20 menit itu sudah sangat membantu"
+Tapi Reina tidak mendengarkan perkataan Kryle, dan tetap berdiri dengan kokoh di tempatnya. 
 
-Kaelous:"maaf mengganggu pertemuan kalian tapi... Mereka masih tetap dataaaang!!"
-Kaelous:_"Tempus Claustra!"_
-Lioren:"Kaelous! Kau pergi cari Reina Aku dan Vyerna akan mengatasi yang disini!"
-Kaelous:"Baik!!"
+Reina:"Kau sangat mengenal ku rupanya.. Zavyre"
+Zavyre:"Heh.. Kau seharusnya berterima kasih padaku karna aku memasukan kalian ke dalam ruangan ini untuk bertarung"
+
+Kryle:"Reina.. Sihir cahaya mu tidak bisa digunakan disini"
+Reina:"Aku tahu kryle, maka dari itu aku berterima kasih karna sudah mengulur waktu untuk ku"
+Kryle:"-!? .."
+
+Reina:_"Lux Condensare"_
+
+Reina berhasil memadatkan energi cahaya yang tersisa pada tubuhnya menjadi sebuah bola cahaya yang bisa menjadi sumber kekuatannya untuk sesaat.
+
+Reina:"kita tidak boleh menghabiskan waktu disini.."
+Zavyre:"Kau memang bisa selalu mengejutkan diriku, putriku yang cantik."
 ---------------------------------`,
 };
 
