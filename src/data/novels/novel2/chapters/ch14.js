@@ -1,123 +1,118 @@
 const chapter = {
   id: 14,
   arc: "Arc 2: Flame Arc",
-  title: "#14 Takdir yang Bertabrakan di Ambang Kehancuran",
+  title: "#14 Sisa Cahaya di Ujung Kegelapan",
   content: `
 ---------------------------------
-*setelah beberapa menit yang terasa panjang, dan di antara suara dentingan pedang yang saling bertentangan*
+_"Lux Condensare"_
 
-*Reina terhuyung, lututnya hampir menyentuh lantai. Pedangnya masih menyala, tapi cahayanya meredup. Napasnya berat, hubungan dirinya dengan Pilar terasa seperti benang yang mulai putus sedikit demi sedikit*
-
-*Astrev berdiri di hadapannya, dengan tiga goresan saja ditubuhnya yang di sebabkan oleh reina,Pedang gelapnya bergetar, dipenuhi energi pekat.*
-
-Astrev:"Sudah cukup, Putri. Kau sudah memberikan perlawanan yang indah… tapi semuanya berakhir di sini."
-
-*Ia mengangkat pedangnya tinggi-tinggi, gelombang kegelapan berkumpul di sekeliling bilah itu,dan siap dilepaskan.*
-
-*Reina melihat kearahnya dengan tatapan penuh amarah namun juga penuh dengan keraguan disaat yang sama*
-
-Reina:"Kau.. Tidak akan mendapatkan apapun! Karna selagi aku masih bernafas.. Aku tidak akan membiarkanmu menyetuh Vulkrath"
-
-*Astrev mulai mengayunkan pedangnya ke arah Reina, namun sesosok pria tiba-tiba muncul di antara mereka berdua sambil mengangkat tangan*
-
-_"TEMPUS!!!-"_
-
-*Serangan Astrev yang lebih cepat menghantam Sosok itu terlebih dulu sebelum ia sempat mengakhiri mantra sihirnya*
-
-*Kilatan gelap dan cahaya waktu bertabrakan. Ruangan berguncang hebat, Pilar Inti bergetar keras.*
-
-*Reina terdiam ditempatnya sambil menatap lurus ke arahnya dengan mata yang terbelalak*
-
-Reina:"...KAELOUS!!!!!!"
-
-*Kaelous terdorong ke depan Reina dan menerima serangan kuat dari Astrev, namun ia tetap berdiri, tubuhnya menjadi penghalang antara Reina dan serangan itu.*
-
-Kaelous:"Heh… sepertinya… aku datang tepat waktu ya…nona"
-
-*Energi gelap perlahan menghilang, namun Kaelous jatuh berlutut.*
-
-*Reina berlari untuk menangkapnya.*
-Reina:"KAELOUS,TIDAK! Jangan… jangan lakukan ini!!"
-
-*Astrev melangkah mundur sedikit, ekspresinya berubah menjadi jengkel.*
-Astrev:"Tch… pengorbanan dari hama yang merepotkan."
-
-Reina:"Tidak.. Tidak.. Aku minta maaf!"
-Kaelous:"Ini bukan salahmu Reina... Kita akan bertemu di taman itu lagi ya..."
-
-*dikarenakan Kaelous bukan berasal dari Dunia Vulkrath, dirinya yang perlahan kehilangan kesadaran dipelukan Reina, langsung menghilang dari pangkuan Reina seakan kembali di bawa oleh waktu ke tempat dirinya berasal*
-
-*Tiba-tiba Astrev mengayunkan kembali pedangnya dengan sihir yang lebih kuat*
-
-Astrev:"PERGILAH KE NERAKA,PUTRI VULKRATH!!! 
-
-_"Scutum Lucis"_
+*Bola cahaya hasil konsentrasi kekuatan cahaya terakhir Reina mengapung di sisi Reina berdenyut lembut, berputar mengikuti setiap tarikan napasnya. Meski domain kegelapan menekan keberadaannya, cahaya itu bisa bertahan.keras kepala, padat seperti bintang yang dipaksa lahir di malam yang gelap.*
 ---------------------------------
-*Perisai muncul seperti kelopak kristal yang saling mengunci, tersusun dari lapisan-lapisan cahaya murni. Di dalamnya mengalir garis-garis emas dan biru dari Pilar Inti, berdenyut selaras dengan jantung Reina.*
+Reina:"Lux Condensare-Forma Impetus!"
 
-*Serangan Astrev langsung menghantam perisai itu, namun serangannya malah berbalik dan meledak kembali ke arah Astrev*
+Dengan Langkah yang sangat cepat Reina menerjang kegelapan Zavyre dengan meninggalkan jejak cahaya tajam di udara. Reina bergerak bersamanya, tubuhnya terasa lebih ringan, lebih cepat. Setiap langkahnya dipercepat oleh cahaya yang memadat, seakan cahaya itu mendorongnya maju. 
 
-*Ledakan itu menghantam Astrev dan melemparkannya ke belakang. Ia terguling di lantai, pedang gelapnya terlepas dari genggamannya, tubuhnya terhuyung saat ia berusaha bangkit.*
+Zavyre mengangkat tangannya.
 
-Astrev:"hah...bagaimana bisa dia.. Memblokir serangan ku tadi.."
+Zavyre:_"Tenebrae Aegis."_
+Kubah bayangan muncul di hadapannya dengan tujuan untuk perlindungan, namun saat tebasan cahaya Reina menghantam, seketika kubah iu langsung pecah disertai serangan Reina yang berlanjut. 
 
-*Reina berdiri dengan cahaya Scutum Lucis di sekitarnya, matanya bergetar antara duka dan amarah.*
+Reina:_"Lux Condensare-Lumen Impulsus"_
 
-_"Aku Lihat kau kesulitan disini..kau memang menyedihkan kakak..."_
-*Zavyre berjalan dari belakang Astrev dan menghampirinya*
-Astrev:"Heh.. Itu belum apa-apa.. Zavyre"
+Serangan yang berupa ledakan cahaya yang Reina lancarkan membuat Zavyre terdorong mundur beberapa langkah, jejak kakinya menggores lantai domain.
 
-*Mata Reina langsung Terpaku kepada Zavyre, dan dia sempat untuk diam sebentar sebelum akhirnya menarik napas dan menghembuskan nya*
+Namun Reina langsung berhenti di tempat dan mulai merasakan kekuatannya berkurang. Bola cahaya di sisinya mengecil sedikit, denyutnya melemah.
 
-Reina:"Zavyre..."
-Zavyre:"Tch.. Jangan memanggilku seolah kau mengenalku"
+Reina:"(Tch..Kekuatannya… berkurang lebih cepat dari yang kuduga,aku jangan terlalu berlama-lama di dalam domain ini.)"
+---------------------------------
+Zavyre tertawa pelan dari tempat nya.
+Zavyre:"hehe... Kau memang Menarik Reina.. Apalagi saat ini aku dapat melihat dirimu yang mempertaruhkan nyawa disetiap serangan mu"
 
-*Reina merasakan sesuatu berdetak di tangannya, dan itu adalah tanda sihir yang di berikan untuk menghentikan Zavyre*
+*Zavyre menghilang ke dalam bayangan.*
 
-(Reina:"sentuhlah Zavyre dengan tanda ini Reina.. Kau pasti bisa")
+Reina:"!!!"
+Bayangan di belakangnya bergetar.
 
-*Ruangan itu kembali dipenuhi tekanan sihir yang menyesakkan. Cahaya Pilar berdenyut tidak stabil, seakan menyadari dua sumber kegelapan kini berdiri di hadapannya.*
+Zavyre tiba-tiba muncul dibelakang Reina dan seketika, tangannya yang terbungkus kegelapan pekat menjerat tubuh Reina dari belakang.
 
-*Zavyre melangkah ke samping Astrev, aura gelapnya menyatu seperti bayangan yang saling mengunci.*
+Zavyre:_"Umbra Clavicula.!!"_
+Reina:_"Scutum Lucis!!!"_
 
-Zavyre:"Baiklah, Kakak… mari kita akhiri ini dengan cepat."
-Astrev:"Dengan senang hati."
+Reina mencoba untuk membuat perisai namun sebelum perisai terbentuk serangan Zavyre sudah menyerangnya terlebih dahulu Cahaya dan bayangan meledak bersamaan. Reina terpental, berlutut, namun tidak jatuh sepenuhnya,terjadi ledakan yang cukup besar hingga membuat Reina terpental cukup jauh. 
 
-*Dalam satu gerakan serempak, mereka berdua mengangkat tangan.*
+Kryle:"Reina!!"
+Kryle:"tch.."
+Kryle menggenggam pedangnya meski lengannya gemetar, dan langsung melaju ke belakang Zavyre lalu mengayunkan pedangnya. 
 
-*Bayangan dari dinding, lantai, bahkan dari celah-celah Pilar Inti sendiri, tertarik menuju mereka, membentuk pusaran besar kegelapan.*
+Kryle:_"Gladius Gigantis"_
+Energi sihir memperbesar bilah pedang Kryle tepat disaat dia mengayunkan pedangnya.
 
-*Reina segera menguatkan Scutum Lucis Lapisan-lapisan cahaya berkilau mengeras, memantulkan kilatan hitam yang mulai menghantam seperti hujan meteor.*
+Zavyre:"!!!!"
+Zavyre berusaha menghindar tetapi serangan itu berhasil mengenainya dan membuatnya terluka, dan di saat dia lengah. Reina sudah ada di belakangnya untuk melancarkan serangan terakhir yang tersisa. 
 
-Reina:"ahh… mereka… menyerang secara bersamaan..!!?!"
+Reina:"Cukup sampai disini untuk malam ini Zavyre! _"Lux Condensare-Sol Aeternum Finis"_!!!!"
 
-*Astrev mengayunkan pedang gelapnya, melepaskan gelombang energi yang memotong udara*
-Astrev:_"Umbra Gladius!!"_
+Zavyre:"KAU!!!!-"
 
-*Zavyre, di sisi lain, menembakkan serangan berbentuk sabit bayangan yang menyapu dari arah berlawanan.*
-Zavyre:_"Atra Falx"_
+Sisa Cahaya dari Lux Condensare diserap kembali oleh Reina dan ledakan cahaya yang menyilaukan mata pun menyebar hingga Domain Zavyre hancur Seperti serpihan kaca pecah dan mereka kembali ke tempat mereka sebelumnya.
+---------------------------------
+Zavyre terdorong keras ke belakang, tubuhnya terhempas ke tanah, kegelapan di sekelilingnya runtuh dan menguap menjadi debu hitam.
 
-*Kedua serangan itu bertabrakan di perisai Reina, membuat ruang kubah bergetar hebat.*
+Keheningan menyusul.
 
-Retakan cahaya muncul di lantai. Pilar Inti berdenyut semakin cepat.
+Reina jatuh berlutut, cahaya menghilang sepenuhnya dari tubuhnya Dan kryle langsung menghampiri nya dan segera menangkapnya.
 
-Reina:
-“Tidak… aku tidak boleh goyah…”
+Kryle:"Reina! Reina!!"
+Reina:"... Mmhm.. "
+Reina membuka matanya perlahan, lemah, dan berusaha untuk memfokuskan kembali penglihatannya yang agak kabur. 
 
-*Ia melangkah maju setengah langkah, meski darah dan cahaya bercampur di telapak tangannya.*
+Di kejauhan, Zavyre terbaring, tidak lagi dikelilingi bayangan domainnya lenyap, kekuatannya runtuh bersama kegelapan yang ia banggakan.
 
-*Kilatan tanda sihir di tangannya tetap berdenyut pelan, seolah menunggu untuk saat yang tepat.*
+Zavyre:"Heh… jadi begini… akhirku oleh cahaya yang hampir padam.."
 
-Astrev:"Heh!.Jangan beri dia waktu. Hancurkan sekarang."
+Tiba-tiba kabut putih muncul diantara mereka yang berbentuk seperti seekor ular.
 
-*Kegelapan kembali menghantam, kali ini lebih kuat, lebih padat.*
+Kryle:"A-Apa itu?!?"
+---------------------------------
+Vyerna:"Wah wah.. Zavyre ternyata usahaku menidurkan prajurit yang berjaga itu sia-sia~"
+Zavyre:"tch..."
 
-*Scutum Lucis* mulai terdorong ke belakang, cahaya di permukaannya bergetar keras.
+Vyerna Mengalihkan pandangnya dan berjalan ke arah Reina.
 
-Reina:"aku tidak akan Membiarkan kalian!"
+Vyerna:"Oh... Jadi ini Putri Kesayangan Vulkrath-"
 
-*Dan di tengah badai sihir itu, Reina mengangkat tangan bertanda cahaya, bersiap melakukan satu gerakan yang bisa mengubah segalanya atau menghancurkan dirinya sendiri.*
-_"Astra Fatum Concordia!!!!!"_
+Sebelum dia mengatakan sesuatu lagi pedang Kryle sudah menunjuk kearahnya. 
+
+Kryle:"HENTIKAN LANGKAH MU DISITU!"
+
+Vyerna:"... Ohh.. -.. Hehe, Manis sekali"
+Zavyre:"Jadi kau kesini untuk membantuku kan.."
+
+Vyerna menoleh kembali ke arah Zavyre.
+
+Vyerna:"Oh.. Aku akan membantu mu... Setelah aku selesai bermain dengan salah satu prajurit disini.. Haha~"
+
+Vyerna memberikan sedikit mantra penyembuhan untuk Zavyre dan langsung pergi menghilang meninggalkan Zavyre. 
+
+Zavyre:"TCH... DASAR WANITA ULAR!!!"
+
+Kryle yang masih mengangkat pedangnya sambil merangkul Reina tidak melepaskan pandangan pada Zavyre yang Berdiri didepan mereka. 
+
+Reina:".... Kryle Turunkan.."
+Kryle:"tapi!?! -.. "
+Reina:"Ini perintah.... "
+
+Kryle dengan terpaksa menurunkan pedangnya. 
+
+Zavyre melihat Kryle menurunkan pedangnya tetapi tangan nya masih merangkul Reina lebih erat.
+
+Zavyre:"tch..aku akan pergi untuk sekarang.. "
+
+Kryle terlihat mengeratkan lagi rangkulannya pada Reina. 
+
+Zavyre:"putri.. Bulan nya sangat Cantik malam ini"
+
+Lalu dalam sekejap dia menghilang diikuti oleh bayangan yang menyertai kepergiannya. 
 ---------------------------------`,
 };
 
