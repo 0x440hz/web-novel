@@ -56,7 +56,7 @@ const metaModules = import.meta.glob('./*/meta.js', { eager: true });
 const chapterModules = import.meta.glob('./*/chapters/*.js', { eager: true });
 
 // Get all character files as raw text
-const characterModules = import.meta.glob('./*/characters/*.md', { import: 'raw', eager: true });
+const characterModules = import.meta.glob('./*/characters/*.js', { import: 'default', eager: true });
 
 // A helper to extract the novel's folder name from a path (e.g., './novel1/meta.js' -> 'novel1')
 const getNovelFolder = (path) => {
