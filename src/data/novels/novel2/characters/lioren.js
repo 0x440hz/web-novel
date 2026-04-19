@@ -10,4 +10,5 @@ Usia:21 tahun
 *Gaya Bertarung: Frontal dan terstruktur dengan pedang; mengutamakan pertahanan dan kerja tti
 *Ciri Khas: suara lantang, ekspresi jujur
 *Motivasi: Mengabdi pada kerajaan dan menjaga kehormatan istana
-`;
+`
+;
