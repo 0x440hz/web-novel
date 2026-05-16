@@ -2,7 +2,7 @@
     id: 10,
     arc: "Arc 1: Moon Arc",
     title: "#10",
-    content: ` #10{Moon Arc}
+    content: ` -------------------------------------
 *Siang hari masih berlanjut, namun awan keabu-abuan mulai menutupi sebagian langit di desa*
 
 Rathail:"...hah.."
